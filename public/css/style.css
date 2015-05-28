@@ -1,0 +1,33 @@
+.dropdown-content{
+  background-color: #d1c4e9;
+}
+.dropdown-content li>a{
+  color: #FFFFFF;
+}
+.previous-page,
+.next-page{
+  position: absolute;
+  z-index: 1000;
+  font-size: 4em;
+}
+.previous-page{
+  left: 0;
+  top:50%;
+}
+.next-page{
+  left: 95%;
+  top:50%;
+}
+.collection .collection-item.avatar .square {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  left: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.pagination li.active{
+  background-color: #00695c;
+  color: #fff;
+}
