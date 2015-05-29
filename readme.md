@@ -5,6 +5,7 @@ This app use to make list of food and base to it, orderer can order foods & drin
 ## First time
 - Run *php artisan migrate* to generate database
 - Add helper HTML & FORM: *composer require illuminate/html*
+- Username & Password: admin@mulodo.com | admin
 
 ## Official Documentation
 
